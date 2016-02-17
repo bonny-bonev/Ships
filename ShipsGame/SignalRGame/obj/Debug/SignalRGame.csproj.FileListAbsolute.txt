@@ -1,0 +1,27 @@
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\bin\SignalRGame.dll
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\bin\SignalRGame.pdb
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\bin\SignalR.dll
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\obj\Debug\SignalRGame.dll
+C:\Users\richardt\documents\visual studio 2010\Projects\SignalRGame\SignalRGame\obj\Debug\SignalRGame.pdb
+C:\Users\bbonev\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\bin\SignalRGame.dll.config
+C:\Users\bbonev\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\bin\SignalRGame.dll
+C:\Users\bbonev\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\bin\SignalRGame.pdb
+C:\Users\bbonev\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bbonev\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\bin\SignalR.dll
+C:\Users\bbonev\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\obj\Debug\SignalRGame.csprojResolveAssemblyReference.cache
+C:\Users\bbonev\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\obj\Debug\SignalRGame.dll
+C:\Users\bbonev\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\obj\Debug\SignalRGame.pdb
+C:\Users\Lex\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\bin\SignalRGame.dll
+C:\Users\Lex\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\bin\SignalRGame.pdb
+C:\Users\Lex\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lex\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\bin\SignalR.dll
+C:\Users\Lex\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\obj\Debug\SignalRGame.dll
+C:\Users\Lex\Desktop\SignalR---Omega-Race-master\SignalR---Omega-Race-master\SignalR---Omega-Race-master\signalr--omega-race\SignalRGame\obj\Debug\SignalRGame.pdb
+C:\Users\Lex\Desktop\ShipsGame\ShipsGame\ShipsGame\ShipsGame\SignalRGame\bin\SignalRGame.dll
+C:\Users\Lex\Desktop\ShipsGame\ShipsGame\ShipsGame\ShipsGame\SignalRGame\bin\SignalRGame.pdb
+C:\Users\Lex\Desktop\ShipsGame\ShipsGame\ShipsGame\ShipsGame\SignalRGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lex\Desktop\ShipsGame\ShipsGame\ShipsGame\ShipsGame\SignalRGame\bin\SignalR.dll
+C:\Users\Lex\Desktop\ShipsGame\ShipsGame\ShipsGame\ShipsGame\SignalRGame\obj\Debug\SignalRGame.dll
+C:\Users\Lex\Desktop\ShipsGame\ShipsGame\ShipsGame\ShipsGame\SignalRGame\obj\Debug\SignalRGame.pdb
